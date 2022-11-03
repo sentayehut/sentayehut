@@ -3,6 +3,7 @@
 - 👋  I love to program, I love to learn and to build things
 - 🌱  I am interested in software engineering 
 - 💞️  I’m looking to collaborate on OpenSource Projects
+- 💞️  I’m currently working on chat app called DevChat
 - 📫  Feel free to reach me tsentayehu4@gmail.com
 -  📫  You can read more about me at [LinkedIn](https://www.linkedin.com/in/sentayehu-tilahun-5a5b54192/)
 
