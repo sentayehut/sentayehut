@@ -10,13 +10,13 @@
 Git Status
 ------
 
-[![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sentayehut&count_private=true&show_icons=true&theme=tokyonight)]
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sentayehut&count_private=true&show_icons=true&theme=tokyonight)
 
 
 Skills & Tools
 -------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sentayehut&langs_count=7&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sentayehut&langs_count=7&layout=compact)
 
 
 
